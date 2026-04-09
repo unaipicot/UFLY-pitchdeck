@@ -1,2 +1,2 @@
-# ufly-hax-pitchdeck
+# UFLY-pitchdeck
 AI autonomous fixed wing drone
